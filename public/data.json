@@ -1,0 +1,37 @@
+[
+{
+    "id": 1,
+    "name" : "Tablas",
+    "modelo": "Allaround",
+    "price" : "$ 1200",
+    "img" : "//"  
+},
+
+{
+    "id": 2,
+    "name" : "Tablas",
+    "modelo": "Allaround",
+    "price" : "$ 1200",
+    "img" : "//" 
+},
+
+
+{
+    "id": 3,
+    "name" : "Tablas",
+    "modelo": "Allaround",
+    "price" : "$ 1200",
+    "img" : "//" 
+
+
+},
+
+{
+    "id": 4,
+    "name" : "Tablas",
+    "modelo": "Allaround",
+    "price" : "$ 1200",
+    "img" : "//" 
+
+
+}]
